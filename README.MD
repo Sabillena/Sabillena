@@ -40,9 +40,6 @@
   <img src="https://profile-counter.glitch.me/Sabillena/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Sabillena/Sabillena/output/snake.svg" alt="Snake animation" />
 
 ###
 
