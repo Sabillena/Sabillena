@@ -34,7 +34,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabillena&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabillena&radius=16&theme=react&area=true&order=5" height="125" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=Sabillena&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
 
