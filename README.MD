@@ -1,35 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there! 👋 I'm Andrea Nicole D. Sabillena</h1>
 
 ###
 
-<p align="left">My name is Andrea Nicole D. Sabillena</p>
+<br clear="both">
+
+<p align="left">🎓 20-year-old Industrial Engineering Student<br>📚 Currently in my 2nd year of studies<br>🚀 Aspiring to combine engineering principles with technology to solve real-world problems.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<br clear="both">
 
-###
-
-<p align="left">✨<br>📚 I'm a 2nd year BSIE student at the Technological Institute of the Philippines<br>🎯 Goals: <br>🎲 Fun fact:</p>
+<img align="right" height="150" src="https://c.tenor.com/Yma7l4T9SyYAAAAC/hello.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabillena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabillena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="left">
+  <a href="https://www.facebook.com/share/16BtBxrjL7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="41" alt="facebook logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=andreanicoles.ac@gmail.com&tf=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="41" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -37,9 +34,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sabillena/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabillena&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sabillena&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
 
-
 ###
-
