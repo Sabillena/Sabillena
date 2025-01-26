@@ -34,8 +34,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabillena&radius=16&theme=react&area=true&order=5" height="125" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sabillena&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabillena&radius=16&theme=react&area=true&order=5" height="140" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sabillena&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
